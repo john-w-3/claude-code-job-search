@@ -173,15 +173,14 @@ generated from that job's folder so it stayed consistent with what I had actuall
 claimed:
 
 ```
-I have an interview scheduled for this role. Make me a one-page cheat sheet (html)
-I can pull up on my phone right before the call: their product in plain terms, my
-best stories mapped to the questions they are likely to ask, my salary range, and
-short notes on each interviewer.
+I have an interview scheduled for this role. Make me a one-page cheat sheet:
+their product in plain terms, my best stories mapped to the questions they are
+likely to ask, my salary range, short notes on each interviewer, and a few sharp
+questions for me to ask each of them.
 ```
 
 Because the prep came from the same folder as the resume, it never contradicted
-what I had told them on paper. I formatted these as HTML so I could open them on my
-phone in the parking lot two minutes before the call.
+what I had told them on paper.
 
 ---
 
