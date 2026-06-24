@@ -233,6 +233,9 @@ because for once it actually has the full picture of your search in front of it.
 
 ## Start your own
 
+A quick recap of the whole flow. See the steps above for the detail behind each
+one.
+
 1. Install Claude Code.
 2. Copy the [`template/`](template/) folder somewhere as your `job` folder.
 3. (Optional, but do it early) Connect Gmail with `/mcp`.
