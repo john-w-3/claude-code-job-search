@@ -1,0 +1,14 @@
+# Python (if you add coding drills or PDF tooling)
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Never commit real personal data. This template stays generic.
+# Your actual job-search folder belongs in a PRIVATE repo, not here.
