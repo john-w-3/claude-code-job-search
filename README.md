@@ -50,7 +50,7 @@ Two quiet features do a lot of the work:
 - **Memory**, a small set of notes Claude keeps about you across sessions, so on a
   brand new day it still remembers who you are and what you are looking for.
 
-**How to set it up.** Three steps, and only the first is required.
+**How to set it up.**
 
 1. **Install Claude Code.** It runs on Mac, Windows, and Linux. Search for
    "install Claude Code," follow the official instructions, and sign in. On
