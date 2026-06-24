@@ -57,8 +57,11 @@ Two quiet features do a lot of the work:
    Windows the smoothest path is through WSL (a free Microsoft add-on the
    installer walks you through). This is the only genuinely technical step, and it
    is one time.
-2. **Make a folder for your search** and copy the [`template/`](template/) folder
-   into it. `Documents/job` is a fine home. That folder is now your whole search.
+2. **Make a folder for your search.** `Documents/job` is a fine home. You can
+   create it and copy the [`template/`](template/) folder in by hand, or just let
+   Claude Code do it for you: open it in this starter-kit folder and say, "Create
+   my job-search folder at Documents/job and copy the template into it." Either
+   way, that folder is now your whole search.
 3. **(Optional but smart) Back it up privately.** Ask Claude Code itself to "set
    up git and push this to a new private GitHub repo" and it walks you through it.
    Keep it **private**: this folder will hold real personal details.
