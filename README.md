@@ -1,13 +1,24 @@
 # How I Used Claude Code to Manage My Whole Job Search
 
-This is a step-by-step walkthrough of how I ran an entire job search, roughly two
-months, about fifty applications, a stack of interviews, and several offers, out
-of a single folder on my computer that I worked through with Claude Code.
+This is a step-by-step walkthrough of how I ran an entire job search, managing
+applications, interviews, and offers, out of a single folder on my computer that
+I worked through with Claude Code.
 
 I wrote it for friends and family who are not programmers. If you can install one
 app and type sentences into it, you can do everything here. There is a
 ready-to-copy starter kit in the [`template/`](template/) folder: copy it and you
 have the skeleton of your own search before you type a single word.
+
+## Contents
+
+- [Intro: what Claude Code is, and why it fit this so well](#intro-what-claude-code-is-and-why-it-fit-this-so-well)
+- [Step 1: Build the master resume and LinkedIn profile by interview](#step-1-build-the-master-resume-and-linkedin-profile-by-interview)
+- [Step 2: One Claude Code session per job you apply to](#step-2-one-claude-code-session-per-job-you-apply-to)
+- [Step 3: Have Claude build a cheat sheet for every screen and interview](#step-3-have-claude-build-a-cheat-sheet-for-every-screen-and-interview)
+- [Step 4: Have Claude create coding drills to practice on (for technical roles)](#step-4-have-claude-create-coding-drills-to-practice-on-for-technical-roles)
+- [Step 5: Use Claude to manage timing, and to advise on competing offers](#step-5-use-claude-to-manage-timing-and-to-advise-on-competing-offers)
+- [A few honest caveats](#a-few-honest-caveats)
+- [Start your own](#start-your-own)
 
 ---
 
