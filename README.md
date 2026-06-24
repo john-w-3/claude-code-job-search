@@ -243,5 +243,4 @@ because for once it actually has the full picture of your search in front of it.
 6. Let the folder grow. Ask Claude to tidy up when it gets messy.
 
 That is the whole method: a folder that remembers, an assistant that can read and
-write it, and a few rules you set once. Want to share this guide with someone? See
-[`PUBLISHING.md`](PUBLISHING.md). Good luck. You have got this.
+write it, and a few rules you set once. Good luck. You have got this.
