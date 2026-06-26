@@ -4,11 +4,6 @@ This is a step-by-step walkthrough of how I ran an entire job search, managing
 applications, interviews, and offers, out of a single folder on my computer that
 I worked through with Claude Code.
 
-I wrote it for friends and family who are not programmers. If you can install one
-app and type sentences into it, you can do everything here. There is a
-ready-to-copy starter kit in the [`template/`](template/) folder: copy it and you
-have the skeleton of your own search before you type a single word.
-
 ## Contents
 
 - [Intro: what Claude Code is, and why it fit this so well](#intro-what-claude-code-is-and-why-it-fit-this-so-well)
